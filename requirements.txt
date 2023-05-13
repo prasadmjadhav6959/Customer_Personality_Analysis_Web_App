@@ -1,2 +1,4 @@
-Flask==2.2.2
+pickle
+flask
 gunicorn 
+scikit-learn
